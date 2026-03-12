@@ -57,9 +57,6 @@ No human intervention should be required once the script is launched.
 * Apprendre les bases du **langage Python**
 * Pratiquer la **création de macros et l’automatisation**
 * Se familiariser avec **OBS** dans un contexte de **QA testing**
-Your text is understandable, but the spelling and grammar are doing parkour. Here is a **corrected and cleaner version**.
-
-Your text looked like it got attacked by a keyboard halfway through the first bullet point. Here is a **clean, corrected version** that reads like an actual workshop brief instead of a corrupted save file.
 
 ### **Fin d’atelier – Travail individuel**
 
