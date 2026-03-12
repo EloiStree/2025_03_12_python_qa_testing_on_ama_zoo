@@ -59,14 +59,19 @@ No human intervention should be required once the script is launched.
 * Se familiariser avec **OBS** dans un contexte de **QA testing**
 Your text is understandable, but the spelling and grammar are doing parkour. Here is a **corrected and cleaner version**.
 
-**Fin d’atelier – Travail individuel**
+Your text looked like it got attacked by a keyboard halfway through the first bullet point. Here is a **clean, corrected version** that reads like an actual workshop brief instead of a corrupted save file.
 
-* Disposer d’une **archive.zip** contenant les **captures d’écran des menus du jeu dans toutes les langues**.
+### **Fin d’atelier – Travail individuel**
 
-**Fin d’atelier – Travail du groupe (avec Git)**
+* **Créer un dépôt Git personnel** pour travailler avec **Python** sur cet exercice.
+* Disposer d’une **archive .zip** contenant les **captures d’écran des menus du jeu dans toutes les langues**.
 
-* Disposer d’un **dépôt Git commun** contenant **un maximum de scripts automatisant des niveaux**.
+### **Fin d’atelier – Travail en groupe (avec Git)**
+
+* **Créer un dépôt Git de groupe** afin de permettre à tous les participants de travailler simultanément sur **cet exercice bonus en Python**.
+* Disposer d’un **dépôt Git commun** contenant **un maximum de scripts automatisant la fin des niveaux**.
 * Disposer d’un **dossier partagé (Dropbox)** contenant **les enregistrements automatisés réalisés avec OBS pour chacun des scripts de niveau**.
+
 
 
 
