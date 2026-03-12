@@ -63,7 +63,7 @@ Your text is understandable, but the spelling and grammar are doing parkour. Her
 
 * Disposer d’une **archive.zip** contenant les **captures d’écran des menus du jeu dans toutes les langues**.
 
-**Fin d’atelier – Travail en groupe (avec Git)**
+**Fin d’atelier – Travail du groupe (avec Git)**
 
 * Disposer d’un **dépôt Git commun** contenant **un maximum de scripts automatisant des niveaux**.
 * Disposer d’un **dossier partagé (Dropbox)** contenant **les enregistrements automatisés réalisés avec OBS pour chacun des scripts de niveau**.
