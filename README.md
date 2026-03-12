@@ -6,7 +6,7 @@ https://store.steampowered.com/app/3066360/AmaZoo/
 > Proposal for a QA testing exercise designed to teach Python to beginners.
 
 
-You will find a solution of this exercice in Godot Script here when later on this year:  
+You will find a solution of this exercice in Godot Script here later on this year:  
 https://github.com/EloiStree/2025_03_12_godot_qa_testing_on_ama_zoo/  
 
 
