@@ -57,5 +57,17 @@ No human intervention should be required once the script is launched.
 * Apprendre les bases du **langage Python**
 * Pratiquer la **création de macros et l’automatisation**
 * Se familiariser avec **OBS** dans un contexte de **QA testing**
+Your text is understandable, but the spelling and grammar are doing parkour. Here is a **corrected and cleaner version**.
+
+**Fin d’atelier – Travail individuel**
+
+* Disposer d’une **archive.zip** contenant les **captures d’écran des menus du jeu dans toutes les langues**.
+
+**Fin d’atelier – Travail en groupe (avec Git)**
+
+* Disposer d’un **dépôt Git commun** contenant **un maximum de scripts automatisant des niveaux**.
+* Disposer d’un **dossier partagé (Dropbox)** contenant **les enregistrements automatisés réalisés avec OBS pour chacun des scripts de niveau**.
+
+
 
 
