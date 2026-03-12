@@ -34,3 +34,28 @@ You have one week to develop a Python script capable of automatically taking scr
 https://store.steampowered.com/app/3066360/AmaZoo/
 
 No human intervention should be required once the script is launched.
+
+
+
+--------------------
+
+
+**Durée :** 3 à 5 jours
+
+**Logiciels :**
+
+* **Python** : [https://www.python.org](https://www.python.org)
+* **XOMI** : [https://github.com/EloiStree/XOMI](https://github.com/EloiStree/XOMI)
+
+  * **S2W** : [https://github.com/EloiStree/S2W](https://github.com/EloiStree/S2W)
+* **OBS Studio** : [https://obsproject.com](https://obsproject.com)
+* **GitHub** : [https://github.com/](https://github.com/)
+* **Git** : [https://git-scm.com](https://git-scm.com)
+
+**Objectifs de l’atelier :**
+
+* Apprendre les bases du **langage Python**
+* Pratiquer la **création de macros et l’automatisation**
+* Se familiariser avec **OBS** dans un contexte de **QA testing**
+
+
